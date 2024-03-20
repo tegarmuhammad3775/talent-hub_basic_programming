@@ -11,4 +11,4 @@ File terdiri dari jawaban Soal Prioritas 1 dan Soal Prioritas 2 (kode program da
 <br> - Click Run on navigation
 
 **=> Folder Screen shoot**
-- Go to folder "Screen Shoot Tugas Day 6"
+<br> - Go to folder "Screen Shoot Tugas Day 6"
